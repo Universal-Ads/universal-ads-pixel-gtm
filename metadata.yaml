@@ -15,5 +15,5 @@
 homepage: "https://www.universalads.com"
 documentation: "https://help.universalads.com/hc/en-us/articles/32171139174043-How-to-Install-the-Pixel"
 versions:
-  - sha: <commit_SHA_from_github>
+  - sha: 051a0c2d0bd31ad45721f89cf00edff2333ca715
     changeNotes: Initial version of Universal Ads Pixel Template.
